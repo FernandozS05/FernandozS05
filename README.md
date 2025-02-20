@@ -1,10 +1,43 @@
 <img src="github-header-image.png" alt="GitHub Banner" width="100%" />
-# Hello World!, I'm Fernando, a Mexican Frontend Developer 👋🏼:
-# 💫 About Me:
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">Hello World!, I'm Fernando, a Mexican Frontend Developer 👋🏼</p>
+
+## 🎯 About Me
 🎨 Frontend Developer with a background in Computer Systems Engineering, focused on crafting intuitive and responsive user interfaces.<br>🚀 Passionate about creating seamless web experiences through modern technologies.<br>📍 Based in Xalapa, Veracruz, Mexico.<br>📖 Constantly exploring new frontend frameworks, UI/UX principles, and performance optimization techniques.<br>📩 Open to collaborations, freelance projects, and tech discussions!
 
+---
 
-## 🌐 Socials:
+## ⚡ My Projects
+
+### 🖥️ **Página Web para la Campaña: #NoTeLaJueguesConLasDrogas**  
+📅 **Agosto 2023 - Febrero 2024**  
+🔹 Participé en el desarrollo de la página web para la campaña **#NoTeLaJueguesConLasDrogas**, impulsada por la Secretaría de Seguridad Pública (SSP) de Veracruz.  
+🔹 Me encargué del **diseño y la programación de las interfaces** en **Vue.js** con **Bootstrap**, creando una experiencia visual intuitiva y dinámica.  
+🔹 Implementé un **Sistema de Gestión de Contenido (CMS)** para administrar noticias, artículos informativos y videos interactivos.  
+
+---
+
+### 🏤 **Sistema Web para la Gestión de Apoyos del DIF Municipal Xalapa**  
+📅 **Julio 2024 - Octubre 2024**  
+🔹 Desarrollé el **frontend** del sistema de gestión de apoyos del DIF Municipal Xalapa, diseñado en **React.js y Bootstrap**.  
+🔹 Me encargué de la integración de algunos módulos con la **API** y de la implementación de los componentes de UI.  
+🔹 Trabajé con **MySQL** para la gestión de datos, utilizando **Amazon RDS** para la base de datos y **Amazon S3** para el almacenamiento de archivos.  
+🔹 El sistema fue desplegado en una **instancia EC2** en AWS y permite administrar solicitudes, colonias, inventarios y expedientes de beneficiarios.  
+
+---
+
+### 🌿 **PWA para la Gestión de la Trazabilidad Forestal de Plantas y Semillas**  
+📅 **Agosto 2024 - Enero 2025**  
+🔹 Desarrollé una **Aplicación Web Progresiva (PWA)** para la gestión de trazabilidad en la organización **Red de Viveros de Biodiversidad (REVIVE)**.  
+🔹 Diseñé e implementé las interfaces en **React.js con TailwindCSS**, representando visualmente los procesos desde la recolección de semillas hasta su distribución.  
+🔹 Configuré el **Service Worker** para habilitar la funcionalidad offline, asegurando acceso a la información sin conexión a internet.  
+
+---
+
+
+## 💬 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100021498070923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fernando-larios-sánchez-434981331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandols0902@gmail.com) 
 
 # 💻 Tech Stack:
